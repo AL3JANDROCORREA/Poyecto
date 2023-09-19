@@ -1,0 +1,25 @@
+/*
+Custom Css
+*/
+.card-producto{
+    background: #77BCFB;
+    transition: 0.5s;
+}
+.card-producto:hover{
+    transform: scale(1.05);
+}
+.text-success b{
+    color: #00F0FF;
+}
+.text-muted{
+    color: black !important;
+}
+.img-fluid2{
+    height: 800px;
+    width: 800px;
+}
+
+.imagen{
+    margin-top: 100px;
+    margin-bottom: 76px;
+}
